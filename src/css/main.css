@@ -1,0 +1,13 @@
+#app{
+    text-align: center;
+}
+
+#pic{
+    background: url('../img/pic.jpg') center;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto; 
+}

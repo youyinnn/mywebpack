@@ -1,0 +1,16 @@
+#app{
+    text-align: center;
+}
+
+#pic{
+    background: url(../img/57d4222e36ee76140ec7f121fe3f3a6e.jpg) center;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto; 
+}
+#app {
+    background-color: whitesmoke;
+}
